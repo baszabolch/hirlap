@@ -1,0 +1,5 @@
+Az adatbázisomban2 tábla van egy admins és egy posts.
+admins oszlopok: `id`, `username`, `email`, `password`
+
+
+posts oszlopok: `id`, `cim`, `url`, `leiras`, `posted_by`, `pcsurl`, `date`
